@@ -1,0 +1,308 @@
+HETATM    1 CH   ALL A   1      -4.375  -6.921  11.526  1.00  0.00           C
+HETATM    2 CH   ALL A   1      -8.470  -8.971   6.351  1.00  0.00           C
+HETATM    3 CH   ALL A   1      -3.812  -6.353   9.080  1.00  0.00           C
+HETATM    4 CH   ALL A   1       0.391  -8.192  10.367  1.00  0.00           C
+HETATM    5 CH   ALL A   2      -7.435 -10.492   1.705  1.00  0.00           C
+HETATM    6 CH   ALL A   2      -0.940  -6.413   5.563  1.00  0.00           C
+HETATM    7 CH   ALL A   2      -6.836  -7.651   5.948  1.00  0.00           C
+HETATM    8 CH   ALL A   2       2.329 -11.657   5.962  1.00  0.00           C
+HETATM    9 CH   ALL A   3       0.391  -8.192  10.367  1.00  0.00           C
+HETATM   10 CH   ALL A   3      -8.470  -8.971   6.351  1.00  0.00           C
+HETATM   11 CH   ALL A   3      -6.836  -7.651   5.948  1.00  0.00           C
+HETATM   12 CH   ALL A   3       2.329 -11.657   5.962  1.00  0.00           C
+HETATM   13 CH   ALL A   4      -4.375  -6.921  11.526  1.00  0.00           C
+HETATM   14 CH   ALL A   4     -11.834 -10.945  11.190  1.00  0.00           C
+HETATM   15 CH   ALL A   4       0.391  -8.192  10.367  1.00  0.00           C
+HETATM   16 CH   ALL A   4       4.809 -10.293  13.818  1.00  0.00           C
+HETATM   17 CH   ALL A   5      -6.836  -7.651   5.948  1.00  0.00           C
+HETATM   18 CH   ALL A   5      -8.470  -8.971   6.351  1.00  0.00           C
+HETATM   19 CH   ALL A   5      -7.435 -10.492   1.705  1.00  0.00           C
+HETATM   20 CH   ALL A   5       2.329 -11.657   5.962  1.00  0.00           C
+HETATM   21 CH   ALL A   6      -6.007  -8.819   0.596  1.00  0.00           C
+HETATM   22 CH   ALL A   6      -6.368  -6.422   1.027  1.00  0.00           C
+HETATM   23 CH   ALL A   6      -5.678  -5.793   6.063  1.00  0.00           C
+HETATM   24 CH   ALL A   6      -0.940  -6.413   5.563  1.00  0.00           C
+HETATM   25 CH   ALL A   7       5.680 -12.208  11.783  1.00  0.00           C
+HETATM   26 CH   ALL A   7     -11.834 -10.945  11.190  1.00  0.00           C
+HETATM   27 CH   ALL A   7       0.391  -8.192  10.367  1.00  0.00           C
+HETATM   28 CH   ALL A   7       2.329 -11.657   5.962  1.00  0.00           C
+HETATM   29 CH   ALL A   8     -11.791  -6.993  13.470  1.00  0.00           C
+HETATM   30 CH   ALL A   8      -3.860  -5.786  12.797  1.00  0.00           C
+HETATM   31 CH   ALL A   8      -1.537  -5.283  17.625  1.00  0.00           C
+HETATM   32 CH   ALL A   8     -11.895  -9.707  12.467  1.00  0.00           C
+HETATM   33 CH   ALL A   9     -11.452  -1.179  15.090  1.00  0.00           C
+HETATM   34 CH   ALL A   9      -3.860  -5.786  12.797  1.00  0.00           C
+HETATM   35 CH   ALL A   9     -12.931  -5.634  14.768  1.00  0.00           C
+HETATM   36 CH   ALL A   9     -10.289  -6.198  12.035  1.00  0.00           C
+HETATM   37 CH   ALL A  10     -12.098  -9.096   9.450  1.00  0.00           C
+HETATM   38 CH   ALL A  10     -11.961 -12.498   3.181  1.00  0.00           C
+HETATM   39 CH   ALL A  10      -8.470  -8.971   6.351  1.00  0.00           C
+HETATM   40 CH   ALL A  10     -11.834 -10.945  11.190  1.00  0.00           C
+HETATM   41 CH   ALL A  11      -8.450  -6.857  10.073  1.00  0.00           C
+HETATM   42 CH   ALL A  11      -8.470  -8.971   6.351  1.00  0.00           C
+HETATM   43 CH   ALL A  11      -4.375  -6.921  11.526  1.00  0.00           C
+HETATM   44 CH   ALL A  11     -11.834 -10.945  11.190  1.00  0.00           C
+HETATM   45 CH   ALL A  12      -3.860  -5.786  12.797  1.00  0.00           C
+HETATM   46 CH   ALL A  12     -11.791  -6.993  13.470  1.00  0.00           C
+HETATM   47 CH   ALL A  12      -1.537  -5.283  17.625  1.00  0.00           C
+HETATM   48 CH   ALL A  12      -1.960  -3.678  18.187  1.00  0.00           C
+HETATM   49 CH   ALL A  13     -11.452  -1.179  15.090  1.00  0.00           C
+HETATM   50 CH   ALL A  13      -5.202  -5.356  11.711  1.00  0.00           C
+HETATM   51 CH   ALL A  13     -11.125  -3.910  12.432  1.00  0.00           C
+HETATM   52 CH   ALL A  13      -7.103  -1.249  11.498  1.00  0.00           C
+HETATM   53 CH   ALL A  14      -3.860  -5.786  12.797  1.00  0.00           C
+HETATM   54 CH   ALL A  14     -11.452  -1.179  15.090  1.00  0.00           C
+HETATM   55 CH   ALL A  14     -12.931  -5.634  14.768  1.00  0.00           C
+HETATM   56 CH   ALL A  14      -1.960  -3.678  18.187  1.00  0.00           C
+HETATM   57 CH   ALL A  15      -7.103  -1.249  11.498  1.00  0.00           C
+HETATM   58 CH   ALL A  15     -11.452  -1.179  15.090  1.00  0.00           C
+HETATM   59 CH   ALL A  15      -5.202  -5.356  11.711  1.00  0.00           C
+HETATM   60 CH   ALL A  15      -2.893  -2.235  14.294  1.00  0.00           C
+HETATM   61 CH   ALL A  16      -1.960  -3.678  18.187  1.00  0.00           C
+HETATM   62 CH   ALL A  16      -3.860  -5.786  12.797  1.00  0.00           C
+HETATM   63 CH   ALL A  16     -11.452  -1.179  15.090  1.00  0.00           C
+HETATM   64 CH   ALL A  16      -2.893  -2.235  14.294  1.00  0.00           C
+HETATM   65 CH   ALL A  17      -6.007  -8.819   0.596  1.00  0.00           C
+HETATM   66 CH   ALL A  17      -4.906 -11.934  -1.258  1.00  0.00           C
+HETATM   67 CH   ALL A  17      -3.125  -6.084  -3.613  1.00  0.00           C
+HETATM   68 CH   ALL A  17       1.405  -7.155   1.723  1.00  0.00           C
+HETATM   69 CH   ALL A  18     -11.834 -10.945  11.190  1.00  0.00           C
+HETATM   70 CH   ALL A  18      -8.470  -8.971   6.351  1.00  0.00           C
+HETATM   71 CH   ALL A  18      -4.375  -6.921  11.526  1.00  0.00           C
+HETATM   72 CH   ALL A  18       0.391  -8.192  10.367  1.00  0.00           C
+HETATM   73 CH   ALL A  19       0.391  -8.192  10.367  1.00  0.00           C
+HETATM   74 CH   ALL A  19     -11.834 -10.945  11.190  1.00  0.00           C
+HETATM   75 CH   ALL A  19      -8.470  -8.971   6.351  1.00  0.00           C
+HETATM   76 CH   ALL A  19       2.329 -11.657   5.962  1.00  0.00           C
+HETATM   77 CH   ALL A  20      -4.375  -6.921  11.526  1.00  0.00           C
+HETATM   78 CH   ALL A  20      -1.537  -5.283  17.625  1.00  0.00           C
+HETATM   79 CH   ALL A  20     -11.895  -9.707  12.467  1.00  0.00           C
+HETATM   80 CH   ALL A  20       4.590  -9.840  19.500  1.00  0.00           C
+HETATM   81 CH   ALL A  21       0.391  -8.192  10.367  1.00  0.00           C
+HETATM   82 CH   ALL A  21      -6.836  -7.651   5.948  1.00  0.00           C
+HETATM   83 CH   ALL A  21      -2.615  -6.445   7.107  1.00  0.00           C
+HETATM   84 CH   ALL A  21       2.329 -11.657   5.962  1.00  0.00           C
+HETATM   85 CH   ALL A  22      -4.375  -6.921  11.526  1.00  0.00           C
+HETATM   86 CH   ALL A  22      -2.027  -6.405  11.820  1.00  0.00           C
+HETATM   87 CH   ALL A  22      -1.537  -5.283  17.625  1.00  0.00           C
+HETATM   88 CH   ALL A  22       4.809 -10.293  13.818  1.00  0.00           C
+HETATM   89 CH   ALL A  23       4.809 -10.293  13.818  1.00  0.00           C
+HETATM   90 CH   ALL A  23     -11.834 -10.945  11.190  1.00  0.00           C
+HETATM   91 CH   ALL A  23       0.391  -8.192  10.367  1.00  0.00           C
+HETATM   92 CH   ALL A  23       5.680 -12.208  11.783  1.00  0.00           C
+HETATM   93 CH   ALL A  24      -8.470  -8.971   6.351  1.00  0.00           C
+HETATM   94 CH   ALL A  24     -11.961 -12.498   3.181  1.00  0.00           C
+HETATM   95 CH   ALL A  24      -7.435 -10.492   1.705  1.00  0.00           C
+HETATM   96 CH   ALL A  24       2.329 -11.657   5.962  1.00  0.00           C
+HETATM   97 CH   ALL A  25     -11.834 -10.945  11.190  1.00  0.00           C
+HETATM   98 CH   ALL A  25      -4.375  -6.921  11.526  1.00  0.00           C
+HETATM   99 CH   ALL A  25     -11.895  -9.707  12.467  1.00  0.00           C
+HETATM  100 CH   ALL A  25       4.590  -9.840  19.500  1.00  0.00           C
+HETATM  101 CH   ALL A  26       4.590  -9.840  19.500  1.00  0.00           C
+HETATM  102 CH   ALL A  26      -4.375  -6.921  11.526  1.00  0.00           C
+HETATM  103 CH   ALL A  26      -1.537  -5.283  17.625  1.00  0.00           C
+HETATM  104 CH   ALL A  26       4.809 -10.293  13.818  1.00  0.00           C
+HETATM  105 CH   ALL A  27       4.590  -9.840  19.500  1.00  0.00           C
+HETATM  106 CH   ALL A  27     -11.834 -10.945  11.190  1.00  0.00           C
+HETATM  107 CH   ALL A  27      -4.375  -6.921  11.526  1.00  0.00           C
+HETATM  108 CH   ALL A  27       4.809 -10.293  13.818  1.00  0.00           C
+HETATM  109 CH   ALL A  28       4.590  -9.840  19.500  1.00  0.00           C
+HETATM  110 CH   ALL A  28      -1.537  -5.283  17.625  1.00  0.00           C
+HETATM  111 CH   ALL A  28       1.721  -5.739  15.853  1.00  0.00           C
+HETATM  112 CH   ALL A  28       4.809 -10.293  13.818  1.00  0.00           C
+HETATM  113 CH   ALL A  29       1.721  -5.739  15.853  1.00  0.00           C
+HETATM  114 CH   ALL A  29      -1.537  -5.283  17.625  1.00  0.00           C
+HETATM  115 CH   ALL A  29      -2.027  -6.405  11.820  1.00  0.00           C
+HETATM  116 CH   ALL A  29       4.809 -10.293  13.818  1.00  0.00           C
+HETATM  117 CH   ALL A  30       2.550 -10.848   5.281  1.00  0.00           C
+HETATM  118 CH   ALL A  30      -6.027 -11.591   0.064  1.00  0.00           C
+HETATM  119 CH   ALL A  30       0.690  -6.993   4.051  1.00  0.00           C
+HETATM  120 CH   ALL A  30       3.010 -11.117   4.010  1.00  0.00           C
+HETATM  121 CH   ALL A  31      -0.940  -6.413   5.563  1.00  0.00           C
+HETATM  122 CH   ALL A  31      -7.435 -10.492   1.705  1.00  0.00           C
+HETATM  123 CH   ALL A  31      -6.027 -11.591   0.064  1.00  0.00           C
+HETATM  124 CH   ALL A  31       2.329 -11.657   5.962  1.00  0.00           C
+HETATM  125 CH   ALL A  32     -11.834 -10.945  11.190  1.00  0.00           C
+HETATM  126 CH   ALL A  32     -11.961 -12.498   3.181  1.00  0.00           C
+HETATM  127 CH   ALL A  32      -8.470  -8.971   6.351  1.00  0.00           C
+HETATM  128 CH   ALL A  32       2.329 -11.657   5.962  1.00  0.00           C
+HETATM  129 CH   ALL A  33       0.690  -6.993   4.051  1.00  0.00           C
+HETATM  130 CH   ALL A  33      -6.027 -11.591   0.064  1.00  0.00           C
+HETATM  131 CH   ALL A  33      -4.906 -11.934  -1.258  1.00  0.00           C
+HETATM  132 CH   ALL A  33       3.010 -11.117   4.010  1.00  0.00           C
+HETATM  133 CH   ALL A  34       1.405  -7.155   1.723  1.00  0.00           C
+HETATM  134 CH   ALL A  34       4.019 -10.156   0.030  1.00  0.00           C
+HETATM  135 CH   ALL A  34      -4.906 -11.934  -1.258  1.00  0.00           C
+HETATM  136 CH   ALL A  34       2.710  -6.901  -0.336  1.00  0.00           C
+HETATM  137 CH   ALL A  35      -0.940  -6.413   5.563  1.00  0.00           C
+HETATM  138 CH   ALL A  35      -6.027 -11.591   0.064  1.00  0.00           C
+HETATM  139 CH   ALL A  35       0.690  -6.993   4.051  1.00  0.00           C
+HETATM  140 CH   ALL A  35       2.550 -10.848   5.281  1.00  0.00           C
+HETATM  141 CH   ALL A  36       2.329 -11.657   5.962  1.00  0.00           C
+HETATM  142 CH   ALL A  36     -11.961 -12.498   3.181  1.00  0.00           C
+HETATM  143 CH   ALL A  36      -7.435 -10.492   1.705  1.00  0.00           C
+HETATM  144 CH   ALL A  36       2.944 -13.024   4.342  1.00  0.00           C
+HETATM  145 CH   ALL A  37      -6.027 -11.591   0.064  1.00  0.00           C
+HETATM  146 CH   ALL A  37      -7.435 -10.492   1.705  1.00  0.00           C
+HETATM  147 CH   ALL A  37     -11.961 -12.498   3.181  1.00  0.00           C
+HETATM  148 CH   ALL A  37       2.944 -13.024   4.342  1.00  0.00           C
+HETATM  149 CH   ALL A  38       1.405  -7.155   1.723  1.00  0.00           C
+HETATM  150 CH   ALL A  38      -4.906 -11.934  -1.258  1.00  0.00           C
+HETATM  151 CH   ALL A  38      -3.125  -6.084  -3.613  1.00  0.00           C
+HETATM  152 CH   ALL A  38       2.710  -6.901  -0.336  1.00  0.00           C
+HETATM  153 CH   ALL A  39       3.605 -12.493  -0.128  1.00  0.00           C
+HETATM  154 CH   ALL A  39      -4.906 -11.934  -1.258  1.00  0.00           C
+HETATM  155 CH   ALL A  39       3.187 -12.421   3.609  1.00  0.00           C
+HETATM  156 CH   ALL A  39       3.652 -10.302   2.144  1.00  0.00           C
+HETATM  157 CH   ALL A  40      -3.350  -4.167  -0.945  1.00  0.00           C
+HETATM  158 CH   ALL A  40      -6.007  -8.819   0.596  1.00  0.00           C
+HETATM  159 CH   ALL A  40      -5.103  -6.532  -2.230  1.00  0.00           C
+HETATM  160 CH   ALL A  40       1.405  -7.155   1.723  1.00  0.00           C
+HETATM  161 CH   ALL A  41      -6.007  -8.819   0.596  1.00  0.00           C
+HETATM  162 CH   ALL A  41      -3.929  -3.799   0.698  1.00  0.00           C
+HETATM  163 CH   ALL A  41       0.690  -6.993   4.051  1.00  0.00           C
+HETATM  164 CH   ALL A  41       1.405  -7.155   1.723  1.00  0.00           C
+HETATM  165 CH   ALL A  42      -3.929  -3.799   0.698  1.00  0.00           C
+HETATM  166 CH   ALL A  42      -6.007  -8.819   0.596  1.00  0.00           C
+HETATM  167 CH   ALL A  42      -3.350  -4.167  -0.945  1.00  0.00           C
+HETATM  168 CH   ALL A  42       1.405  -7.155   1.723  1.00  0.00           C
+HETATM  169 CH   ALL A  43      -4.906 -11.934  -1.258  1.00  0.00           C
+HETATM  170 CH   ALL A  43       0.690  -6.993   4.051  1.00  0.00           C
+HETATM  171 CH   ALL A  43       3.010 -11.117   4.010  1.00  0.00           C
+HETATM  172 CH   ALL A  43       1.405  -7.155   1.723  1.00  0.00           C
+HETATM  173 CH   ALL A  44       3.652 -10.302   2.144  1.00  0.00           C
+HETATM  174 CH   ALL A  44       3.605 -12.493  -0.128  1.00  0.00           C
+HETATM  175 CH   ALL A  44      -4.906 -11.934  -1.258  1.00  0.00           C
+HETATM  176 CH   ALL A  44       1.405  -7.155   1.723  1.00  0.00           C
+CONECT    1    2    3    4
+CONECT    2    3    4    1
+CONECT    3    4    1    2
+CONECT    5    6    7    8
+CONECT    6    7    8    5
+CONECT    7    8    5    6
+CONECT    9   10   11   12
+CONECT   10   11   12    9
+CONECT   11   12    9   10
+CONECT   13   14   15   16
+CONECT   14   15   16   13
+CONECT   15   16   13   14
+CONECT   17   18   19   20
+CONECT   18   19   20   17
+CONECT   19   20   17   18
+CONECT   21   22   23   24
+CONECT   22   23   24   21
+CONECT   23   24   21   22
+CONECT   25   26   27   28
+CONECT   26   27   28   25
+CONECT   27   28   25   26
+CONECT   29   30   31   32
+CONECT   30   31   32   29
+CONECT   31   32   29   30
+CONECT   33   34   35   36
+CONECT   34   35   36   33
+CONECT   35   36   33   34
+CONECT   37   38   39   40
+CONECT   38   39   40   37
+CONECT   39   40   37   38
+CONECT   41   42   43   44
+CONECT   42   43   44   41
+CONECT   43   44   41   42
+CONECT   45   46   47   48
+CONECT   46   47   48   45
+CONECT   47   48   45   46
+CONECT   49   50   51   52
+CONECT   50   51   52   49
+CONECT   51   52   49   50
+CONECT   53   54   55   56
+CONECT   54   55   56   53
+CONECT   55   56   53   54
+CONECT   57   58   59   60
+CONECT   58   59   60   57
+CONECT   59   60   57   58
+CONECT   61   62   63   64
+CONECT   62   63   64   61
+CONECT   63   64   61   62
+CONECT   65   66   67   68
+CONECT   66   67   68   65
+CONECT   67   68   65   66
+CONECT   69   70   71   72
+CONECT   70   71   72   69
+CONECT   71   72   69   70
+CONECT   73   74   75   76
+CONECT   74   75   76   73
+CONECT   75   76   73   74
+CONECT   77   78   79   80
+CONECT   78   79   80   77
+CONECT   79   80   77   78
+CONECT   81   82   83   84
+CONECT   82   83   84   81
+CONECT   83   84   81   82
+CONECT   85   86   87   88
+CONECT   86   87   88   85
+CONECT   87   88   85   86
+CONECT   89   90   91   92
+CONECT   90   91   92   89
+CONECT   91   92   89   90
+CONECT   93   94   95   96
+CONECT   94   95   96   93
+CONECT   95   96   93   94
+CONECT   97   98   99  100
+CONECT   98   99  100   97
+CONECT   99  100   97   98
+CONECT  101  102  103  104
+CONECT  102  103  104  101
+CONECT  103  104  101  102
+CONECT  105  106  107  108
+CONECT  106  107  108  105
+CONECT  107  108  105  106
+CONECT  109  110  111  112
+CONECT  110  111  112  109
+CONECT  111  112  109  110
+CONECT  113  114  115  116
+CONECT  114  115  116  113
+CONECT  115  116  113  114
+CONECT  117  118  119  120
+CONECT  118  119  120  117
+CONECT  119  120  117  118
+CONECT  121  122  123  124
+CONECT  122  123  124  121
+CONECT  123  124  121  122
+CONECT  125  126  127  128
+CONECT  126  127  128  125
+CONECT  127  128  125  126
+CONECT  129  130  131  132
+CONECT  130  131  132  129
+CONECT  131  132  129  130
+CONECT  133  134  135  136
+CONECT  134  135  136  133
+CONECT  135  136  133  134
+CONECT  137  138  139  140
+CONECT  138  139  140  137
+CONECT  139  140  137  138
+CONECT  141  142  143  144
+CONECT  142  143  144  141
+CONECT  143  144  141  142
+CONECT  145  146  147  148
+CONECT  146  147  148  145
+CONECT  147  148  145  146
+CONECT  149  150  151  152
+CONECT  150  151  152  149
+CONECT  151  152  149  150
+CONECT  153  154  155  156
+CONECT  154  155  156  153
+CONECT  155  156  153  154
+CONECT  157  158  159  160
+CONECT  158  159  160  157
+CONECT  159  160  157  158
+CONECT  161  162  163  164
+CONECT  162  163  164  161
+CONECT  163  164  161  162
+CONECT  165  166  167  168
+CONECT  166  167  168  165
+CONECT  167  168  165  166
+CONECT  169  170  171  172
+CONECT  170  171  172  169
+CONECT  171  172  169  170
+CONECT  173  174  175  176
+CONECT  174  175  176  173
+CONECT  175  176  173  174
