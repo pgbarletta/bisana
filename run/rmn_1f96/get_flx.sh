@@ -9,7 +9,7 @@ do
     mkdir -p ${dir}/${i}_cutoff_1f96/flx
     for j in `seq 1 20`
     do
-        rm *_flx_*
+        rm ${dir}/${i}_cutoff_1f96/flx/*_flx_*
         ANA2 ${dir}/pdbs/het_${pdb}_${j}.pdb -c ${dir}/cavidad/ecf.cfg -M ${dir}/${i}_cutoff_1f96/eigenvectors/${j}_modos_${pdb} -F ${dir}/${i}_cutoff_1f96/frq/${j}_frq_${pdb} -Z ${d} > ${dir}/${i}_cutoff_1f96/flx/${j}_flx_ecf_${d}
         ANA2 ${dir}/pdbs/het_${pdb}_${j}.pdb -c ${dir}/cavidad/edf.cfg -M ${dir}/${i}_cutoff_1f96/eigenvectors/${j}_modos_${pdb} -F ${dir}/${i}_cutoff_1f96/frq/${j}_frq_${pdb} -Z ${d} > ${dir}/${i}_cutoff_1f96/flx/${j}_flx_edf_${d}
     done

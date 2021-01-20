@@ -28,9 +28,9 @@ end
 
 pdb = "1f96"
 nmodos = 10
-Achain_end = 1482
-Bchain_sta = 1486
-Bchain_end = 2970
+Achain_end = 1485
+Bchain_sta = 1489
+Bchain_end = 2973
 rango_i = [ collect(1:Achain_end) ; collect(Bchain_sta:Bchain_end) ]
 rango_j = collect(1:nmodos)
 
@@ -43,5 +43,4 @@ for coff = 7:12
         write_mtx(readdlm(modos_in_file)[rango_i, rango_j], modos_out_file)
     end
 end
-
 
