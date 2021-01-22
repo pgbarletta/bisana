@@ -1,0 +1,5 @@
+parm /home/pbarletta/labo/20/dynein/top_files/dry_1f96.prmtop
+# this frame is the closest to the average
+trajin /home/pbarletta/labo/20/dynein/run/1f96/pca/full_avgfit_1f96.nc 15209 15209
+trajout top_1f96.pdb
+go

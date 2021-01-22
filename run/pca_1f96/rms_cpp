@@ -1,0 +1,6 @@
+parm /home/pbarletta/labo/20/dynein/top_files/dry_1f96.prmtop
+
+trajin /home/pbarletta/labo/20/dynein/run/1f96/pca/full_avgfit_1f96.nc
+reference avg_1f96.pdb [avg]
+rms ref [avg] out rmsd_avg :1-170@CA RMSD
+go
