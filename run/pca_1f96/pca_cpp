@@ -12,5 +12,5 @@ createcrd crd_1f96
 run
 
 # Step three. Diagonalize matrix.
-runanalysis diagmatrix mtx_1f96 vecs 504 out modes_1f96
+runanalysis diagmatrix mtx_1f96 vecs 10 out modes_1f96
 go
