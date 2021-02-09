@@ -1,0 +1,100 @@
+HETATM    1 CH    IA A   1      24.000  54.517  23.244  1.00  0.00           C
+HETATM    2 CH    IA A   1      37.368  57.433  25.485  1.00  0.00           C
+HETATM    3 CH    IA A   1      27.197  48.504  21.416  1.00  0.00           C
+HETATM    4 CH    IA A   2      24.000  54.517  23.244  1.00  0.00           C
+HETATM    5 CH    IA A   2      27.197  48.504  21.416  1.00  0.00           C
+HETATM    6 CH    IA A   2      17.227  60.930  40.666  1.00  0.00           C
+HETATM    7 CH    IA A   3      17.227  60.930  40.666  1.00  0.00           C
+HETATM    8 CH    IA A   3      24.192  61.706  29.313  1.00  0.00           C
+HETATM    9 CH    IA A   3      24.000  54.517  23.244  1.00  0.00           C
+HETATM   10 CH    IA A   4      27.197  48.504  21.416  1.00  0.00           C
+HETATM   11 CH    IA A   4      29.217  46.126  25.784  1.00  0.00           C
+HETATM   12 CH    IA A   4      17.227  60.930  40.666  1.00  0.00           C
+HETATM   13 CH    IA A   5      40.690  54.930  28.939  1.00  0.00           C
+HETATM   14 CH    IA A   5      31.936  55.798  38.828  1.00  0.00           C
+HETATM   15 CH    IA A   5      29.217  46.126  25.784  1.00  0.00           C
+HETATM   16 CH    IA A   6      27.197  48.504  21.416  1.00  0.00           C
+HETATM   17 CH    IA A   6      40.690  54.930  28.939  1.00  0.00           C
+HETATM   18 CH    IA A   6      29.217  46.126  25.784  1.00  0.00           C
+HETATM   19 CH    IA A   7      31.936  55.798  38.828  1.00  0.00           C
+HETATM   20 CH    IA A   7      24.346  59.751  42.582  1.00  0.00           C
+HETATM   21 CH    IA A   7      29.217  46.126  25.784  1.00  0.00           C
+HETATM   22 CH    IA A   8      27.197  48.504  21.416  1.00  0.00           C
+HETATM   23 CH    IA A   8      37.368  57.433  25.485  1.00  0.00           C
+HETATM   24 CH    IA A   8      40.690  54.930  28.939  1.00  0.00           C
+HETATM   25 CH    IA A   9      24.346  59.751  42.582  1.00  0.00           C
+HETATM   26 CH    IA A   9      27.863  61.854  33.152  1.00  0.00           C
+HETATM   27 CH    IA A   9      17.227  60.930  40.666  1.00  0.00           C
+HETATM   28 CH    IA A  10      40.690  54.930  28.939  1.00  0.00           C
+HETATM   29 CH    IA A  10      33.781  61.321  29.277  1.00  0.00           C
+HETATM   30 CH    IA A  10      36.333  58.737  34.899  1.00  0.00           C
+HETATM   31 CH    IA A  11      40.690  54.930  28.939  1.00  0.00           C
+HETATM   32 CH    IA A  11      36.333  58.737  34.899  1.00  0.00           C
+HETATM   33 CH    IA A  11      31.936  55.798  38.828  1.00  0.00           C
+HETATM   34 CH    IA A  12      24.000  54.517  23.244  1.00  0.00           C
+HETATM   35 CH    IA A  12      24.192  61.706  29.313  1.00  0.00           C
+HETATM   36 CH    IA A  12      37.368  57.433  25.485  1.00  0.00           C
+HETATM   37 CH    IA A  13      36.333  58.737  34.899  1.00  0.00           C
+HETATM   38 CH    IA A  13      27.863  61.854  33.152  1.00  0.00           C
+HETATM   39 CH    IA A  13      24.346  59.751  42.582  1.00  0.00           C
+HETATM   40 CH    IA A  14      36.333  58.737  34.899  1.00  0.00           C
+HETATM   41 CH    IA A  14      24.346  59.751  42.582  1.00  0.00           C
+HETATM   42 CH    IA A  14      31.936  55.798  38.828  1.00  0.00           C
+HETATM   43 CH    IA A  15      37.368  57.433  25.485  1.00  0.00           C
+HETATM   44 CH    IA A  15      33.781  61.321  29.277  1.00  0.00           C
+HETATM   45 CH    IA A  15      40.690  54.930  28.939  1.00  0.00           C
+HETATM   46 CH    IA A  16      29.217  46.126  25.784  1.00  0.00           C
+HETATM   47 CH    IA A  16      24.346  59.751  42.582  1.00  0.00           C
+HETATM   48 CH    IA A  16      17.227  60.930  40.666  1.00  0.00           C
+HETATM   49 CH    IA A  17      24.192  61.706  29.313  1.00  0.00           C
+HETATM   50 CH    IA A  17      33.781  61.321  29.277  1.00  0.00           C
+HETATM   51 CH    IA A  17      37.368  57.433  25.485  1.00  0.00           C
+HETATM   52 CH    IA A  18      33.781  61.321  29.277  1.00  0.00           C
+HETATM   53 CH    IA A  18      27.863  61.854  33.152  1.00  0.00           C
+HETATM   54 CH    IA A  18      36.333  58.737  34.899  1.00  0.00           C
+HETATM   55 CH    IA A  19      24.192  61.706  29.313  1.00  0.00           C
+HETATM   56 CH    IA A  19      27.863  61.854  33.152  1.00  0.00           C
+HETATM   57 CH    IA A  19      33.781  61.321  29.277  1.00  0.00           C
+HETATM   58 CH    IA A  20      17.227  60.930  40.666  1.00  0.00           C
+HETATM   59 CH    IA A  20      27.863  61.854  33.152  1.00  0.00           C
+HETATM   60 CH    IA A  20      24.192  61.706  29.313  1.00  0.00           C
+CONECT    1    2    3
+CONECT    2    3
+CONECT    4    5    6
+CONECT    5    6
+CONECT    7    8    9
+CONECT    8    9
+CONECT   10   11   12
+CONECT   11   12
+CONECT   13   14   15
+CONECT   14   15
+CONECT   16   17   18
+CONECT   17   18
+CONECT   19   20   21
+CONECT   20   21
+CONECT   22   23   24
+CONECT   23   24
+CONECT   25   26   27
+CONECT   26   27
+CONECT   28   29   30
+CONECT   29   30
+CONECT   31   32   33
+CONECT   32   33
+CONECT   34   35   36
+CONECT   35   36
+CONECT   37   38   39
+CONECT   38   39
+CONECT   40   41   42
+CONECT   41   42
+CONECT   43   44   45
+CONECT   44   45
+CONECT   46   47   48
+CONECT   47   48
+CONECT   49   50   51
+CONECT   50   51
+CONECT   52   53   54
+CONECT   53   54
+CONECT   55   56   57
+CONECT   56   57
+CONECT   58   59   60
+CONECT   59   60
