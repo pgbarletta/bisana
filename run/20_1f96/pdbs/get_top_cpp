@@ -1,0 +1,5 @@
+parm ../../../top_files/dry_1f96.prmtop
+# this frame is the closest to the average
+trajin full_avgfit_1f96.nc 15209 15209
+trajout top_1f96.pdb
+go
