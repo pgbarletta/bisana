@@ -36,7 +36,7 @@ rango_j = collect(1:nmodos)
 
 casa = joinpath("/home/pbarletta/labo/20/bisana/run/rmn_1f96")
 
-for coff = 7:12
+for coff = 6:6
     for i = 1:20
         modos_in_file = joinpath(casa, string(coff, "_cutoff_1f96"), "eigenvectors", string(i, "_modes_", pdb))
         modos_out_file = joinpath(casa, string(coff, "_cutoff_1f96"), "eigenvectors", string(i, "_modos_", pdb))

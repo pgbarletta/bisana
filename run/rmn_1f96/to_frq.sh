@@ -1,7 +1,7 @@
 #!/bin/bash
 
 pdb=1f96
-for coff in `seq 7 12`
+for coff in `seq 6 6`
 do
     cd ${coff}_cutoff_1f96/eigenvalues
     for i in `seq 1 20`
