@@ -1,0 +1,71 @@
+Predicted path:   ./lc8_tctex/1f96_10.pdb
+Experimental path:./lc8_tctex/1xdx_13.pdb
+_______________________________________________________________________________
+
+                                M  A  M  M  O  T  H
+
+               MAtching Molecular Models Obtained from THeory
+
+_______________________________________________________________________________
+
+-------------------
+ Input information
+-------------------
+-----------------------------
+       Input information     
+-----------------------------
+
+
+==> PREDICTION: 
+
+     Protein: A
+     Number of residues: 85
+
+==> EXPERIMENT: 
+
+     Protein: A
+     Number of residues: 102
+
+-----------------------------
+ Structural Alignment Scores 
+-----------------------------
+
+
+ PSI(1D) =  91.76  NSUP=  78  NORM=  85 RMS= 2.83 NSS= 78
+ PSI(3D) =  81.18  NSUP=  69  NORM=  85 RMS= 2.33
+ Sstr(LG)=    0.0  NALI=  69  NORM=  85 RMS= 2.33
+
+E-value= 0.004548
+
+Z-score= 5.3074      -ln(E)= 5.3930
+TM-score= 0.5537     Seq.sim= -0.239
+
+-----------------------------
+  Final Structural Alignment 
+-----------------------------
+
+
+                   *******************      *****************
+Prediction KAVIKNADMSEEMQQDSVECATQALEKYN----IEKDIAAXIKKEFDKKY
+Prediction -----------------------------....-----------------
+                  ||||||||||||||||||||||    |||||||||||||||||
+Experiment .......-------------------------------------------
+Experiment -------FVADDVSNIIKESIDAVLQNQQYSEAKVSQWTSSCLEXCIKRL
+                   *******************      *****************
+
+                   *********     *****        ********** ****
+Prediction -------NPTWXCIVGRN----FGSYVTX-----ETKXFIYFYLG-QVAI
+Prediction .......-----------....-------.....-----------.----
+                  |||||||||||    |||||||     ||||||||||| ||||
+Experiment --------------------------------------------------
+Experiment TALNKPFKYVVTCIIMQKNGAGLXTAASCWWDSTTDGSRTVRWENKSMYC
+                   *********     *****        ********** ****
+
+            **** *  
+Prediction -LLFKSG--
+Prediction .------..
+            ||||||  
+Experiment ---------
+Experiment ICTVFGLAI
+            **** *  
+
