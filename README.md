@@ -27,3 +27,8 @@ contra los modos de PCA de la dinámica.
     ./to_frq.sh
     julia cortar.jl
     ./get_flx.sh
+
+## Carpetas y src
+
+    cutoff p/ 1XDX y 1F96: 16
+    las notebooks: final_final_1f96.ipynb y final_final_1xdx.ipynb
