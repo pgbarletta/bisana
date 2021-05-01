@@ -1,4 +1,5 @@
 import mdtraj as md
+import numpy as np
 
 rms = []
 for i in range(1, 21):
