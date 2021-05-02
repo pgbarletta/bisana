@@ -1,0 +1,16 @@
+parm /home/pbarletta/labo/20/dynein/top_files/dry_1f96.prmtop
+trajin /home/pbarletta/labo/20/dynein/run/1f96/4_pdt/4_full_fit_1f96.nc
+rms first :1-170@CA
+average 4_avg_1f96.pdb pdb
+run
+
+# Step two. RMS-Fit to average structure. Calculate covariance matrix.
+reference 4_avg_1f96.pdb [avg]
+rms ref [avg] :1-170@CA RMSD
+matrix mwcovar name mtx_1f96 :1-170@CA
+createcrd crd_1f96
+run
+
+# Step three. Diagonalize matrix.
+runanalysis diagmatrix mtx_1f96 vecs 10 out 4_modes_1f96
+go
