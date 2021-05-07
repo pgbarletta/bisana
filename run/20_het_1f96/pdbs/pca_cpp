@@ -1,0 +1,37 @@
+parm ./dry_het_1f96.prmtop
+
+trajin het_1f96_1.pdb
+trajin het_1f96_2.pdb
+trajin het_1f96_3.pdb
+trajin het_1f96_4.pdb
+trajin het_1f96_5.pdb
+trajin het_1f96_6.pdb
+trajin het_1f96_7.pdb
+trajin het_1f96_8.pdb
+trajin het_1f96_9.pdb
+trajin het_1f96_10.pdb
+trajin het_1f96_11.pdb
+trajin het_1f96_12.pdb
+trajin het_1f96_13.pdb
+trajin het_1f96_14.pdb
+trajin het_1f96_15.pdb
+trajin het_1f96_16.pdb
+trajin het_1f96_17.pdb
+trajin het_1f96_18.pdb
+trajin het_1f96_19.pdb
+trajin het_1f96_20.pdb
+
+rms first :1-170@CA
+average avg_het_1f96.pdb pdb
+run
+
+# Step two. RMS-Fit to average structure. Calculate covariance matrix.
+reference avg_het_1f96.pdb [avg]
+rms ref [avg] :1-170@CA RMSD
+matrix mwcovar name mtx_het_1f96 :1-170@CA
+createcrd crd_het_1f96
+run
+
+# Step three. Diagonalize matrix.
+runanalysis diagmatrix mtx_het_1f96 vecs 10 out modes_het_1f96
+go

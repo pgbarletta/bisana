@@ -1,0 +1,5 @@
+source leaprc.protein.ff19SB
+
+mol = loadpdb het_1f96_1.pdb
+saveamberparm mol dry_het_1f96.prmtop a.rst7
+quit
