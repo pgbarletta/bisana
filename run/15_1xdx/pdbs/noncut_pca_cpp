@@ -1,0 +1,32 @@
+parm ./fix_1xdx_1.pdb
+
+trajin fix_1xdx_1.pdb
+trajin fix_1xdx_2.pdb
+trajin fix_1xdx_3.pdb
+trajin fix_1xdx_4.pdb
+trajin fix_1xdx_5.pdb
+trajin fix_1xdx_6.pdb
+trajin fix_1xdx_7.pdb
+trajin fix_1xdx_8.pdb
+trajin fix_1xdx_9.pdb
+trajin fix_1xdx_10.pdb
+trajin fix_1xdx_11.pdb
+trajin fix_1xdx_12.pdb
+trajin fix_1xdx_13.pdb
+trajin fix_1xdx_14.pdb
+trajin fix_1xdx_15.pdb
+
+rms first :13-114,127-228@CA
+average noncut_avg_1xdx.pdb pdb
+run
+
+# Step two. RMS-Fit to average structure. Calculate covariance matrix.
+reference noncut_avg_1xdx.pdb [avg]
+rms ref [avg] :13-114,127-228@CA RMSD
+matrix mwcovar name mtx_1xdx :13-114,127-228@CA
+createcrd crd_1xdx
+run
+
+# Step three. Diagonalize matrix.
+runanalysis diagmatrix mtx_1xdx vecs 10 out noncut_modes_1xdx
+go
