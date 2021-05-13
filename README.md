@@ -32,3 +32,8 @@ contra los modos de PCA de la dinámica.
 
     cutoff p/ 1XDX y 1F96: 16
     las notebooks: final_final_1f96.ipynb y final_final_1xdx.ipynb
+
+## het_1f96
+    we're comparing 1F96 with IC and 1XDX without IC, that's why I have het_1f96 data: without the IC chain.
+Nevertheless, the NMR experiment was carried out with an IC chain and I can't do anything about that.
+This comparison is not optimal, but it's still valid. All the het_1f96 folders are pretty much useless.
